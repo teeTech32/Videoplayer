@@ -22,7 +22,7 @@ const SearchBar = ({ onSearch }:Props) => {
               <Link to='/' className='btn btn-ghost btn-sm rounded-btn md:text-xl xl:text-2xl hover:scale-110 hover:text-green-600' onClick={()=> toast.success('You Are Home')}>
                 Home
               </Link>
-              <Link to='/' className='btn btn-ghost btn-sm rounded-btn md:text-xl xl:text-2xl hover:scale-110 hover:text-green-600 sm:pr-8' onClick={()=> toast.success('We Are Still On It')}>
+              <Link to='/' className='btn btn-ghost btn-sm rounded-btn md:text-xl xl:text-2xl hover:scale-110 hover:text-green-600 pr-8' onClick={()=> toast.success('We Are Still On It')}>
                 About
               </Link>
             </div> 
