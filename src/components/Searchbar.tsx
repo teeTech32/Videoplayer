@@ -35,7 +35,7 @@ const SearchBar = ({ onSearch }:Props) => {
               data-aos-duration='1000'
               data-aos-easing='ease-in-out' className=" flex justify-center py-20"> 
    <div className='grid md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 mb-8 gap-8'>
-    <div className="input input-lg bg-gray-200 w-[300px] md:w-[500px] xl:w-[750px] pr-40 text-black relative">
+    <div className="input input-lg bg-gray-200 w-[300px] md:w-[500px] xl:w-[750px] pr-40 text-black relative ml-2 xl:ml-10">
         <input
             type="text"
             placeholder="Search by title or genre..."
