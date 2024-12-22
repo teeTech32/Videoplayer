@@ -1,6 +1,7 @@
 import { useRef, useState} from 'react';
-import { Navigate, useNavigate, useParams } from 'react-router-dom';
+import { useNavigate, useParams } from 'react-router-dom';
 import { FaArrowAltCircleLeft, FaPlay, FaPause } from 'react-icons/fa';
+import { FaHome } from 'react-icons/fa';
 import mockDatas from '../assets/mockVideos.json';
 
 
@@ -79,9 +80,7 @@ const VideoDetailsPage = () => {
                 {formatTime(currentTime)} / {formatTime(duration)}
               </div>
             </div>
-            
           </div>
-          
             <div className="flex items-center mt-4 px-5">
               <input
                 type="range"
@@ -121,6 +120,21 @@ const VideoDetailsPage = () => {
           </div>
         </div>
       </div>
-    </div>): <Navigate to={'/'}/>
+    </div>): <div className ="flex justify-center">
+      <div className="container bg-gray-200 shadow-2xl border-solid  border-black mt-10 rounded-3xl ">
+        <div className='hero'>
+          <div className="text-center hero-content">
+            <div className="lg:max-w-md max-w-xs">
+              <h1 className="lg:text-8xl text-4xl font-bold  text-red-500 mb-4">Oops!</h1>
+              <p className="lg:text-3xl text-1.5xl mb-4 font-bold  text-black-500">Something went wrong. The requested contact ID doesn't exist!.</p>
+              <button onClick={()=> navigate('/')} className='btn bg-red-500 btn-md lg:btn-lg  text-white lg:text-2xl text-xl'>
+                <FaHome className="lg:text-3xl text-xl" />
+                <p>Go Back </p>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
 };
 export default VideoDetailsPage
