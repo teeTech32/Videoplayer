@@ -9,7 +9,7 @@ type Props = {
 const SearchBar = ({ onSearch }:Props) => {
 
  return <>
-  <nav className="navbar mb-12 text-neutral-content bg-neutral shadow-lg p-5 ">
+  <nav className="navbar mb-12 text-neutral-content bg-neutral shadow-lg py-5 px-10 ">
         <div className='container mx-auto '>
           <div data-aos="zoom-in" className="flex-none px-2 mx-2 hover:scale-110 hover:text-green-600" onClick={()=> toast.success('You Are Home')}>
             <PiVideoBold className='text-5xl md:text-6xl xl:text-7xl inline pr-2 cursor-pointer' />
@@ -22,7 +22,7 @@ const SearchBar = ({ onSearch }:Props) => {
               <Link to='/' className='btn btn-ghost btn-sm rounded-btn md:text-xl xl:text-2xl hover:scale-110 hover:text-green-600' onClick={()=> toast.success('You Are Home')}>
                 Home
               </Link>
-              <Link to='/' className='btn btn-ghost btn-sm rounded-btn md:text-xl xl:text-2xl hover:scale-110 hover:text-green-600 pr-8' onClick={()=> toast.success('We Are Still On It')}>
+              <Link to='/' className='btn btn-ghost btn-sm rounded-btn md:text-xl xl:text-2xl hover:scale-110 hover:text-green-600' onClick={()=> toast.success('We Are Still On It')}>
                 About
               </Link>
             </div> 
