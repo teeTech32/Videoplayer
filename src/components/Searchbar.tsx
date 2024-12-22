@@ -9,7 +9,7 @@ type Props = {
 const SearchBar = ({ onSearch }:Props) => {
 
  return <>
-  <nav className="navbar mb-12 text-neutral-content bg-neutral shadow-lg py-5 px-10 ">
+  <nav className="navbar mb-12 text-neutral-content bg-neutral shadow-lg py-5 pl-3 pl-8 ">
         <div className='container mx-auto '>
           <div data-aos="zoom-in" className="flex-none px-2 mx-2 hover:scale-110 hover:text-green-600" onClick={()=> toast.success('You Are Home')}>
             <PiVideoBold className='text-5xl md:text-6xl xl:text-7xl inline pr-2 cursor-pointer' />
