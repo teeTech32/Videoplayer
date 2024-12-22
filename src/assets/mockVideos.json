@@ -1,0 +1,115 @@
+
+  [
+  {
+    "id": 1,
+    "title": "Big Buck Bunny",
+    "thumbnail": "https://media.istockphoto.com/id/1711589132/photo/smiling-relaxed-woman-resting-on-couch-using-digital-tablet.jpg?s=1024x1024&w=is&k=20&c=wM3XncnA-gVZnio95qdvEz6BNXr_YQ4swtLln2YDm2s=",
+    "duration": "9:56",
+    "description": "Big Buck Bunny tells the story of a rabbit.",
+    "genre": "Documentary",
+    "vidoeUrl" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+
+  },
+  {
+    "id": 2,
+    "title": "Elephant Dream",
+    "thumbnail": "https://media.istockphoto.com/id/2167092274/photo/business-man-downloading-computer-files-or-installing-software-on-laptop-computer-cloud.jpg?s=1024x1024&w=is&k=20&c=hpkUxizzJo-laL00JNk3vGEjjL4gZubhqMIzYCxWcRg=",
+    "duration": "10:53",
+    "description": "The first Blender Open Movie from 2006",
+    "genre": "Documentary",
+    "vidoeUrl" :"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+  },
+  {
+    "id": 3,
+    "title": "For Bigger Blazes",
+    "thumbnail": "https://images.unsplash.com/photo-1614432254115-7e756705e910?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "duration": "0:15",
+    "description": "HBO GO now works with Chromecast",
+    "genre": "Documentary",
+    "vidoeUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+  },
+  {
+    "id": 4,
+    "title": "Introducing Chromecast",
+    "thumbnail": "https://media.istockphoto.com/id/2163200715/photo/portrait-of-caucasian-handsome-man-using-smartphone-in-3d-cyberspace-with-animated-social.jpg?s=1024x1024&w=is&k=20&c=mk3MndnTGGcim_69cV0ZLSpKcS6pwSO9E3Hp4kMu7rU=",
+    "duration": "0:15",
+    "description": "For Bigger Escape",
+    "genre": "Documentary",
+    "vidoeUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+  },
+  {
+    "id": 5,
+    "title": "For Bigger Fun",
+    "thumbnail": "https://media.istockphoto.com/id/1397054568/photo/girl-plays-video-game-online-and-streaming-at-home.jpg?s=612x612&w=0&k=20&c=7dFAEr9hu2P6unbw0NJt06y5p0LO3Wcxf0dn4ffObC0=",
+    "duration": "1:00",
+    "description": "The easiest way to enjoy online video and music on your TV",
+    "genre": "Documentary",
+    "vidoeUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+  },
+  {
+    "id": 6,
+    "title": "For Bigger Joyrides",
+    "thumbnail": "https://media.istockphoto.com/id/1420039843/photo/cloud-computing-backup-cyber-security-fingerprint-identity-encryption-technology.jpg?s=1024x1024&w=is&k=20&c=VAtubOzs4nN9FmtelDOD5YWZSbXjm-xYm8PNZuNGBAQ=",
+    "duration": "0:15",
+    "description": "Introducing Chromecast. The easiest way to enjoy online video and music on your TV",
+    "genre": "Documentary",
+    "vidoeUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+  },
+  {
+    "id": 7,
+    "title": "Bigger Meltdowns",
+    "thumbnail": "https://media.istockphoto.com/id/1609156993/photo/relaxed-person-at-home-watching-tv-video-streaming-concept.jpg?s=1024x1024&w=is&k=20&c=ZpK315JlAM_ngzCSnsu96CJTTGEI0OuPFtOUVqaAsxQ=",
+    "duration": "0:15",
+    "description": "Introducing Chromecast. The easiest way to enjoy online video and music on your TV",
+    "genre": "Documentary",
+    "vidoeUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+  },
+  {
+    "id": 8,
+    "title": "Sintel",
+    "thumbnail": "https://media.istockphoto.com/id/1317797291/photo/woman-watching-tv-series-and-movies-via-streaming-service-at-home.jpg?s=1024x1024&w=is&k=20&c=i5aAD5q-_VVDqKX1H3W2ivrBby0rcOnHftatywXe4Cw=",
+    "duration": "14:47",
+    "description": "Sintel is an independently produced short film",
+    "genre": "Documentary",
+    "vidoeUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+  },
+  {
+    "id": 9,
+    "title": "Subaru Outback On Street And Dirt",
+    "thumbnail": "https://media.istockphoto.com/id/1199697813/photo/girl-on-the-sofa-in-the-living-room-eating-popcorn.jpg?s=1024x1024&w=is&k=20&c=_EKeqyA_o-glUOyJ9DoXZP_2XbSTVavaaayxYMpDfT8=",
+    "duration": "9:54",
+    "description": "Smoking Tire takes the all-new Subaru Outback to the highest point",
+    "genre": "Locumentary",
+    "vidoeUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"
+  },
+  {
+    "id": 10,
+    "title": "Tears of Steel",
+    "thumbnail": "https://media.istockphoto.com/id/2177400741/photo/young-woman-watching-horror-movie-in-the-evening-at-home.jpg?s=1024x1024&w=is&k=20&c=cK-V4RoiPI2Zweya7V2zd1hsagmr0tJf4i5PWJSd43k=",
+    "duration": "12:14",
+    "description": "Tears of Steel was realized with crowd-funding by users of the open source",
+    "genre": "Documentary",
+    "vidoeUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+  },
+  {
+    "id": 11,
+    "title": "We Are Going On Bullrun",
+    "thumbnail": "https://media.istockphoto.com/id/513684258/photo/addict-man-watching-television-show-eating-crudely-popcorn-holding-bowl.jpg?s=1024x1024&w=is&k=20&c=RVs4NcrDVK7FZPF5GxHGBw7Ob7VqKV307-bezqQDQrE=",
+    "duration": "0:47",
+    "description": "The Smoking Tire is going on the 2010 Bullrun Live Rally in a 2011 Shelby GT500",
+    "genre": "Documentary",
+    "vidoeUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"
+  },
+  {
+    "id": 12,
+    "title": "What care can you get for a grand?",
+    "thumbnail": "https://media.istockphoto.com/id/95920113/photo/young-couple-eating-popcorn-with-a-scared-facial-expression.jpg?s=1024x1024&w=is&k=20&c=U-6hlGopyVtSWSovYlJJOJdPWhX5lFI877a1AlO1ipY=",
+    "duration": "9:27",
+    "description": "A peaceful walk through nature.",
+    "genre": "Locumentary",
+    "vidoeUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
+  }
+  
+  
+  
+]
